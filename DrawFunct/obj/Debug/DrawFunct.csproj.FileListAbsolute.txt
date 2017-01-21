@@ -1,0 +1,14 @@
+c:\users\neth\documents\visual studio 2015\Projects\DrawFunct\bin\Debug\DrawFunct.exe.config
+c:\users\neth\documents\visual studio 2015\Projects\DrawFunct\obj\Debug\DrawFunct.csprojResolveAssemblyReference.cache
+c:\users\neth\documents\visual studio 2015\Projects\DrawFunct\bin\Debug\DrawFunct.exe
+c:\users\neth\documents\visual studio 2015\Projects\DrawFunct\bin\Debug\DrawFunct.pdb
+c:\users\neth\documents\visual studio 2015\Projects\DrawFunct\obj\Debug\DrawFunct.exe
+c:\users\neth\documents\visual studio 2015\Projects\DrawFunct\obj\Debug\DrawFunct.pdb
+c:\users\neth\documents\visual studio 2015\Projects\DrawFunct\bin\Debug\NCalc.dll
+C:\Users\Jonasz\Documents\Visual Studio 2015\Projects\DrawFunct\bin\Debug\DrawFunct.exe.config
+C:\Users\Jonasz\Documents\Visual Studio 2015\Projects\DrawFunct\obj\Debug\DrawFunct.exe
+C:\Users\Jonasz\Documents\Visual Studio 2015\Projects\DrawFunct\obj\Debug\DrawFunct.pdb
+C:\Users\Jonasz\Documents\Visual Studio 2015\Projects\DrawFunct\bin\Debug\DrawFunct.exe
+C:\Users\Jonasz\Documents\Visual Studio 2015\Projects\DrawFunct\bin\Debug\DrawFunct.pdb
+C:\Users\Jonasz\Documents\Visual Studio 2015\Projects\DrawFunct\bin\Debug\NCalc.dll
+C:\Users\Jonasz\Documents\Visual Studio 2015\Projects\DrawFunct\obj\Debug\DrawFunct.csprojResolveAssemblyReference.cache
